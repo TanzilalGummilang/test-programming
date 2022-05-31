@@ -23,7 +23,7 @@
           <a class="nav-link active" aria-current="page" href="#">Transaksi</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Barang</a>
+          <a class="nav-link active" aria-current="page" href="/item">Barang</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Konsumen</a>
