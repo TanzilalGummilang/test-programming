@@ -4,8 +4,8 @@ function getDatabaseConfig(): array
 {
   $host = "localhost";
   $port = 3306;
-  $dbNameProd = "db";
-  $dbNameTest = "db_test";
+  $dbNameProd = "db_test-programming";
+  $dbNameTest = "db_test-programming_dev";
   $username = "root";
   $password = "";
 
