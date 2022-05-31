@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'TanzilalGummilang\\PHP\\LoginManagement\\' => array($baseDir . '/app'),
+    'TanzilalGummilang\\AplikasiTransaksi\\' => array($baseDir . '/app'),
 );

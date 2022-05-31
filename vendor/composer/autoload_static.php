@@ -9,12 +9,12 @@ class ComposerStaticInit4f81f0d50e103f32a73ba38d571567eb
     public static $prefixLengthsPsr4 = array (
         'T' => 
         array (
-            'TanzilalGummilang\\PHP\\LoginManagement\\' => 38,
+            'TanzilalGummilang\\AplikasiTransaksi\\' => 36,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'TanzilalGummilang\\PHP\\LoginManagement\\' => 
+        'TanzilalGummilang\\AplikasiTransaksi\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app',
         ),

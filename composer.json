@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TanzilalGummilang\\PHP\\LoginManagement\\": "app"
+            "TanzilalGummilang\\AplikasiTransaksi\\": "app"
         }
     }
 }
