@@ -24,7 +24,7 @@ class ItemController
     View::render(
       'Item/index', [
         'title' => "Index",
-        'player' => $result
+        'item' => $result
       ]
     );
   }
